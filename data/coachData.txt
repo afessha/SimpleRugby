@@ -1,0 +1,5 @@
+Awet Fessha,SR111111,24/05/1994,25 burndyke court,07454941123,awet@gmail.com,G51 2bg,Awet123,Young Lions
+Nahom gebre,SR222222,24/05/1994,10 burndyke court,07454941123,awe@gmail.com,G31 3er,Nahom234,Glasgow United
+Bini berhe,SR333333,24/05/1994,18 burndyke court,07454941123,awe@gmail.com,g22 3gh,Bini111,Celtic
+Hanibal Fessha,SR444444,12/09/2001,21 maria street,0768543217,hani@yahoo.com,G88 7EY,Hanibal124,Rangers
+Paul Dorman,SR555555,12/05/1990,12 hatfield street,0785855525,paul@gmail.com,G12 3YN,Paul259,Glasgow Boys

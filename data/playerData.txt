@@ -1,0 +1,4 @@
+John Wicked,SR464646,27/01/1999,170 great western road,john@hotmail.com,G21 0PQ,0789654389,Ruth Lamb,07564321563,Shiela Watson,01412356789,Diabetic,Centre and Full back,20,SQ4444
+James Cameron,SR454545,10/02/2004,17 linkwood crescent,james@yahoo.com,G15 7ES,07564532974,Theresa Gordon,07865432123,David Preston,0141765432,None,Wing and Full back,15,SQ2222
+Marcus,SR474747,12/05/2003,77 Uist street,marcus@gmail.com,G51 3XN,07564321567,Anna Macdonal,074532156731,Docherty Alan,01416543289,None,Wing,16,SQ3333
+Willam,SR484848,21/05/1999,56 Red street,will@gmail.com,G42 5ER,0756432178,Natalie,0745321789,Paul,0141234567,None,Wing,20,SQ5555

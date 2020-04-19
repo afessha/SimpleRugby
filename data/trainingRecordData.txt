@@ -1,0 +1,4 @@
+John Stewart;12/04/2019;Anniesland campus;16:00;running,tackling and defending;David,Ross,Max,Michael,Emran,Cameron,william and Alex;None
+Nahom Gebre;25/03/2019;Langside campus;14:00;Attacking and running;Daniel,Mozafar,Chris,Tom,Evans and paul;daniel has got hamstring injury
+Awet Fessha;18/01/2019;Cardonald campus;15:00;Running and defending;David,Ross,Max,Michael,Emran,Cameron,william and Alex;Ross encountered ankle injury 
+Hanibal Fessha;22/05/2019;Ibrox;16:00;cardio and running;Andrew,Robert, Alan, Mathew,Steven,Gary and Michael;None

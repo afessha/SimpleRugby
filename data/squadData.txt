@@ -1,0 +1,5 @@
+SQ1111,Young Lions,Junior Squad
+SQ2222,Glasgow United,Junior Squad
+SQ3333,Glasgow Boys,Junior Squad
+SQ4444,Celtic,Senior
+SQ5555,Rangers,Senior
